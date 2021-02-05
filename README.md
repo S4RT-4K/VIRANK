@@ -2,7 +2,7 @@
 A script full of Prank.
 
 # VIRANK Details
->Right Now for Termux only.
+>OS: Right Now for Termux only.
 >Developer: S4RT-4K
 >Version: 1.0
 >Software: Python
@@ -32,3 +32,5 @@ python virank.py
 ```
 python virank.py
 ```
+# Contact Us:
+>Instagram: https://instagram.com/s4rth4k.py
