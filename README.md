@@ -2,6 +2,7 @@
 A script full of Prank.
 
 # VIRANK Details
+>Right Now for Termux only.
 >Developer: S4RT-4K
 >Version: 1.0
 >Software: Python
